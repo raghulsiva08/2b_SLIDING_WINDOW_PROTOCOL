@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## REF NO: 25015705
-### DATE:06-02-2026
+### DATE:05-02-2026
 ## AIM
 To implement a program to illustrate the mechanism of sliding window protocol
 ## ALGORITHM:
